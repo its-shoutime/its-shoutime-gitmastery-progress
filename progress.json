@@ -248,5 +248,14 @@
       "Good work reverting commits!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787553565.905547,
+    "completed_at": 1787553568.113941,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
   }
 ]
